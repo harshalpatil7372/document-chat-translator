@@ -26,6 +26,11 @@ Translate entire documents from one language to another, preserving the original
 
 Experience real-time translation of spoken words during live video sessions. Perfect for virtual meetings, conferences, or online events where participants speak different languages.
 
+### 6. Summarizer
+
+Efficiently generate summaries of lengthy texts, helping users quickly grasp the main points without reading the entire document.
+
+
 ## Getting Started
 
 ### Requirements
