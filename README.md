@@ -74,13 +74,13 @@ Efficiently generate summaries of lengthy texts, helping users quickly grasp the
 
 ![Video to Text Extraction](/images/video_to_text.png)
 
-Description: In this screenshot, you can see the tool extracting text from a video. This feature is useful for creating subtitles or transcribing spoken content from video files.
+Description: This screenshot demonstrates the document translation feature, allowing users to translate entire documents while preserving the original formatting.
 
 ### 4.  Video to Text Extraction 
 
 ![Document to Document Translation](/images/document_translation.png)
 
-Description: This screenshot demonstrates the document translation feature, allowing users to translate entire documents while preserving the original formatting.
+Description: In this screenshot, you can see the tool extracting text from a video. This feature is useful for creating subtitles or transcribing spoken content from video files.
 
 
 ## Notes
