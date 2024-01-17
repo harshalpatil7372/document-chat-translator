@@ -70,13 +70,13 @@ Efficiently generate summaries of lengthy texts, helping users quickly grasp the
 
 ## Updated User Interface
 
-### 1. Video to Text Extraction
+### 1. Document to Document Translation
 
 ![Video to Text Extraction](/images/video_to_text.png)
 
 Description: In this screenshot, you can see the tool extracting text from a video. This feature is useful for creating subtitles or transcribing spoken content from video files.
 
-### 4. Document to Document Translation
+### 4.  Video to Text Extraction 
 
 ![Document to Document Translation](/images/document_translation.png)
 
