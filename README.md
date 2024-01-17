@@ -76,7 +76,7 @@ Efficiently generate summaries of lengthy texts, helping users quickly grasp the
 
 Description: This screenshot demonstrates the document translation feature, allowing users to translate entire documents while preserving the original formatting.
 
-### 4.  Video to Text Extraction 
+### 2. Video to Text Extraction 
 
 ![Document to Document Translation](/images/document_translation.png)
 
